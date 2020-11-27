@@ -1,0 +1,23 @@
+body {
+    background-color: #eee;
+}
+
+p {
+    font-family: fantasy;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 25px;
+    color: #222fff;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 15px;
+    line-height: 1.7;
+    word-spacing: 10px;
+    text-shadow: 5px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+a {
+    text-decoration: none;
+    text-transform: lowercase;
+    letter-spacing: 3px;
+}

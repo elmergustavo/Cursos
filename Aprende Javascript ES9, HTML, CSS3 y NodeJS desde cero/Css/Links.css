@@ -1,0 +1,30 @@
+body {
+    background-color: #eee;
+}
+
+a {
+    color: hotpink;
+    background-color: #ff0000;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 4px;
+}
+
+a:link {
+    color: pink;
+    text-decoration: crimson;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: chartreuse;
+    text-decoration: underline;
+    background-color: darkgreen;
+}
+
+a:active {
+    color: black;
+}

@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+}
+
+table {
+    width: 100%;
+    background-color: wheat;
+    border-collapse: collapse;
+}
+
+tr:nth-child(even) {
+    background-color: tomato;
+}
+
+td {
+    border: 2px solid black;
+    padding: 8px;
+}
+
+table th {
+    background-color: springgreen;
+    color: white;
+    text-align: left;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 8px;
+    padding-right: 8px;
+}

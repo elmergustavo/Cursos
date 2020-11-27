@@ -1,0 +1,16 @@
+body {
+    background-color: green;
+}
+
+.caja {
+    margin: 8px;
+    padding: 8px;
+    border-style: dashed;
+    border-width: 8px;
+    border-color: yellow;
+    background-color: mediumblue;
+    border-radius: 8px;
+    height: 100px;
+    width: 100px;
+    color: sienna;
+}

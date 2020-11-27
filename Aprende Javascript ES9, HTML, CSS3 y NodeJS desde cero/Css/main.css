@@ -1,0 +1,12 @@
+ body {
+     /* color de fondo */
+     background-color: darkslategrey;
+ }
+ 
+ #parrafo {
+     color: firebrick;
+ }
+ 
+ .etiqueta {
+     color: green;
+ }
